@@ -1,0 +1,14 @@
+#Today Task Completed
+
+1 Hour learn about On Premises and Cloud Server, Cloud Computing, AWS Services, Landing Page, TowerControl
+2 Hour Git and Linux Commands
+1 Hour practice for self introduction for inteview
+
+#Tommorrow Task
+
+1 Hour for AWS Services
+2 Hour for Git & Linux Commands Practice
+1 Hour for self introduction
+
+
+
