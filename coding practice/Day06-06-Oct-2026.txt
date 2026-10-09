@@ -73,3 +73,5 @@ test:
   script:
     - cd sample-java-app
     - mvn test || { echo "Tests failed"; exit 1; }
+
+

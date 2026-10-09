@@ -1,14 +1,11 @@
-#Today Task Completed
+#Toaday task                                                                                                                                            2 hour I spend to revise AWS services such as EC2, VPC, S3, Session Manager, Route-53, DNS, CloudTrail, CloudWatch, Auto Scaling, Lambda,
 
-1 Hour learn about On Premises and Cloud Server, Cloud Computing, AWS Services, Landing Page, TowerControl
-2 Hour Git and Linux Commands
-1 Hour practice for self introduction for inteview
+2 Hour I spent to revisse AWS services such as EC2, VPC, S3, Session Manager, Route-53, DNS, CloudTrail, CloudWatch, Auto Scaling, Lambda,
+1 hour i practiced Git commands
+1 hour i practiced Linux commands
 
-#Tommorrow Task
+#Tomorrow Task
 
-1 Hour for AWS Services
-2 Hour for Git & Linux Commands Practice
-1 Hour for self introduction
-
-
-
+1 hour i wll spend for Linux practice
+1 hour i will spend for Git practice
+2 hour i will spend for morning session revision
