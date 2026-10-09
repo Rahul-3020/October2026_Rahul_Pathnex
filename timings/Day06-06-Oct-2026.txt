@@ -1,0 +1,11 @@
+#Toaday task                                                                                                                                            2 hour I spend to revise AWS services such as EC2, VPC, S3, Session Manager, Route-53, DNS, CloudTrail, CloudWatch, Auto Scaling, Lambda,
+
+2 Hour I spent to revisse AWS services such as EC2, VPC, S3, Session Manager, Route-53, DNS, CloudTrail, CloudWatch, Auto Scaling, Lambda,
+1 hour i practiced Git commands
+1 hour i practiced Linux commands
+
+#Tomorrow Task
+
+1 hour i wll spend for Linux practice
+1 hour i will spend for Git practice
+2 hour i will spend for morning session revision
