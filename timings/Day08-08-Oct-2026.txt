@@ -1,0 +1,3 @@
+2 Hour I spent to revise AWS services such as Amazon Redshift,AWS DMS, AWS Batch, EFS, AWS Elastic Beanstalk, AWS CodePipeline, AWS CodeBuild, AWS CodeDeploy, AWS X-Ray, AWS Glue
+1 hour i practiced Git commands
+1 hour i practiced Linux commands
