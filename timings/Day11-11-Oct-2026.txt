@@ -1,0 +1,5 @@
+#Toaday task
+2 Hour I spent to revisse Kubernetes Architecture, Master Node/Control Plane, API Server, Scheduler, etcd, Controller Manager, Worker Node, Kubelet, Kube Proxy, CRI-o, CRO, Types Of Controller, Docker Swarm
+1 hour i practiced Git commands
+1 hour i practiced Linux commands
+
