@@ -1,0 +1,4 @@
+#Toaday task 
+2 Houur I spend to revise Virtual Machine vs Docker, Hypervisor, Image, Container, Port, CMD, RUN, ENTRPOINT, Network and types, Volume
+1 hour i practiced Git commani:wqds
+1 hour i practiced Linux commands
