@@ -1,0 +1,5 @@
+#Toaday task
+
+2 Hour I spent to revisse AWS services such as Redshift, DMS, Batch, EFS, Elastic Beanstalk, Code Pipeline, Code Build, Code Deploy, X-Ray, Glue
+1 hour i practiced Git commands
+1 hour i practiced Linux commands
