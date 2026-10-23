@@ -1,0 +1,5 @@
+#Toaday task
+
+2 Hour I spent to revise How to create EKS cluster using AWS Console?, Networking, VPS, Subnet Group, Workspace and its types, Monitoring, CIDR
+1 hour i practiced Git commands
+1 hour i practiced Linux commands
