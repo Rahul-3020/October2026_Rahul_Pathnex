@@ -1,0 +1,6 @@
+#Toaday task
+
+2 Hour I spent to revisse Kubernetes points such as pod-affinity, Anti-Pod-Affinity, Node-Affinity, Limit & Request, Probes and its Types
+, Kubectl commands, Image Pull Policy
+1 hour i practiced Git commands
+1 hour i practiced Linux commands
