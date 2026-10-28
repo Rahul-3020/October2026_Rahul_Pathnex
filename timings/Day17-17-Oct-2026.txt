@@ -1,0 +1,5 @@
+#Today task
+
+2 Hour I spent to revise ------ Metrics Server vs Cluster Autoscaler vs HPA vs VPA vs Keda vs Karpenter
+2 hour on AI Assitant vs AI Agenet, Slack and Confrence page, Short Term vs Long Term memory 
+
