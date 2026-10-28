@@ -1,0 +1,6 @@
+#Toaday task
+
+2 Hour I spent to revise RTO & RPO, Active and Passive Load Balancer, Ingress and its components (istio), Gateway, virtual service, Labels and Selectors,
+Deployment vs DaemonSet vs StatefullSet vs StatelessSet
+1 hour i practiced Git commands
+1 hour i practiced Linux commands
