@@ -1,0 +1,6 @@
+#Toaday task
+
+2 Hour I spent to revise Rolling Updates, Pod Distribution Budget (PDB), Max Unavailable% & Max Surge%, Cordon & Drain, HPA vs VPA, Taint & Toleration,
+Keda, Karpenter, Metrics Server, PV & PVC
+1 hour i practiced Git commands
+1 hour i practiced Linux commands
