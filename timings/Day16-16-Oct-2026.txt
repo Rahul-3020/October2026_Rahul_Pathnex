@@ -1,0 +1,6 @@
+#Toaday task
+
+2 Hour I spent to revise ---- Configmap and Secret, Chart.yml & Values.yml, CRD, _helpers.tpl, Helm and Helm chart and its components
+1 hour i practiced Git commands
+1 hour i practiced Linux commands
+
